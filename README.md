@@ -1,11 +1,9 @@
 # Pneumonia-detection
 
-Xray- the dataset containing training, validating and test data sets.  
-sample_inputs- sample x-rays  
-results-  final outputs of the respective x-ray  
+
 plot_infected_area.py- main code that is to be executed.  
 pneumonia_predict_model.py - code for the model.  
-vgg16.h5 - This is the trained model which we will use predict pneumonia.    
+   
 
 
 # Methods
